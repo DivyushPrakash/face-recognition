@@ -1,0 +1,15 @@
+.heading {
+    width:90%;
+    font-size:33px;
+}
+
+#webcam, #clickedimage{
+border:4px soild chartreuse;
+width:350px;
+height:285px;
+}
+
+body{
+    background-color: rgb(181, 206, 156);
+    color:black;
+}
